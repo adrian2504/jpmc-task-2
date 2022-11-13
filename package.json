@@ -1,5 +1,5 @@
 {
-  "name": "bank-merge-co-task-2",
+  "name": "npm",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,8 @@
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.0.11",
     "bootstrap": "^4.2.1",
+    "node": "^19.0.1",
+    "npx": "^10.2.2",
     "puppeteer": "^1.19.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -36,5 +38,14 @@
     "awesome-typescript-loader": "^5.2.1",
     "source-map-loader": "^0.2.4",
     "typescript": "^3.2.4"
-  }
+  },
+  "description": "Starter repo for task 2 of JPMC's Forage program",
+  "main": "index.js",
+  "repository": "git+https://github.com/adrian2504/jpmc-task-2.git",
+  "author": "Adrian Dsouza <adriandsouza2504@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrian2504/jpmc-task-2/issues"
+  },
+  "homepage": "https://github.com/adrian2504/jpmc-task-2#readme"
 }
